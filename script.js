@@ -52,7 +52,7 @@ const process = async (db) => {
     const findAndReplaceStatement = db.prepare("UPDATE `text_data` SET `text`=:replace WHERE `text`=:search");
     // Search and replace for every item in data.json
     for (const jpText in data[0]) {
-        const cnText = data[jpText];
+        const cnText = data[0][jpText];
         if (!cnText) continue; // Skip if enText is empty
 
         console.log(`Replacing ${jpText} with ${cnText}!`);
