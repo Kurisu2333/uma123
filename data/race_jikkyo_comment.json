@@ -1,0 +1,1458 @@
+[
+    {
+        "group_id": 100000,
+        "id": 1,
+        "message": "名勝負になる舞台は整いましたね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1000101"
+    },
+    {
+        "group_id": 100001,
+        "id": 2,
+        "message": "バ場が乾いているので\\n足元が滑るかもしれませんね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1000201"
+    },
+    {
+        "group_id": 100002,
+        "id": 3,
+        "message": "このくらいのバ場のほうが\\n合っているウマ娘もいますからね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1000301"
+    },
+    {
+        "group_id": 100003,
+        "id": 4,
+        "message": "このくらい引き締まったバ場ですと\\nスピードに乗りやすいですよ",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1000401"
+    },
+    {
+        "group_id": 100004,
+        "id": 5,
+        "message": "天気、もってくれるといいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1000501"
+    },
+    {
+        "group_id": 100005,
+        "id": 6,
+        "message": "日本のコースは水はけが良いですからね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1000601"
+    },
+    {
+        "group_id": 100006,
+        "id": 7,
+        "message": "雨が本格化したら\\n難しいレースになってしまいそうですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1000701"
+    },
+    {
+        "group_id": 100007,
+        "id": 8,
+        "message": "スピードは出しやすいですが\\n脚への負担が心配です",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1000801"
+    },
+    {
+        "group_id": 100008,
+        "id": 9,
+        "message": "ここまで重たいバ場だと\\n得意、不得意が出てきちゃいますね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1000901"
+    },
+    {
+        "group_id": 100009,
+        "id": 10,
+        "message": "かなり苦労するバ場ですね\\nコース取りにも注意です",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1001001"
+    },
+    {
+        "group_id": 100010,
+        "id": 11,
+        "message": "こんなに荒れていると\\nレース展開が読みにくいですよ",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1001101"
+    },
+    {
+        "group_id": 100011,
+        "id": 12,
+        "message": "これは相当走りにくそうなバ場状態ですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1001201"
+    },
+    {
+        "group_id": 100012,
+        "id": 13,
+        "message": "雪がどれだけ影響するか、心配です",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1001301"
+    },
+    {
+        "group_id": 100013,
+        "id": 14,
+        "message": "雪も考慮して走らないといけないですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1001401"
+    },
+    {
+        "group_id": 100014,
+        "id": 15,
+        "message": "雪化粧と言えば聞こえはいいですが\\n走る娘たちにすればやっかいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1001501"
+    },
+    {
+        "group_id": 100015,
+        "id": 16,
+        "message": "この雪は敵か味方か\\nウマ娘たちの適性が試されます",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1001601"
+    },
+    {
+        "group_id": 100016,
+        "id": 18,
+        "message": "気合充分！　いい顔してますね！",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1001801"
+    },
+    {
+        "group_id": 100016,
+        "id": 19,
+        "message": "火花散らすデッドヒートに期待しましょう",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1001901"
+    },
+    {
+        "group_id": 100016,
+        "id": 20,
+        "message": "私が一番期待しているウマ娘\\n気合い入れてほしいですね！",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1002001|1002002"
+    },
+    {
+        "group_id": 100021,
+        "id": 22,
+        "message": "さすがスタートに定評のあるふたりですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1002201"
+    },
+    {
+        "group_id": 100022,
+        "id": 23,
+        "message": "このスタートの良さが彼女の強さですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1002301"
+    },
+    {
+        "group_id": 100022,
+        "id": 24,
+        "message": "完璧なスタートでしたね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1002401"
+    },
+    {
+        "group_id": 100024,
+        "id": 25,
+        "message": "みんな出方をうかがったのかもしれませんね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1002501"
+    },
+    {
+        "group_id": 100025,
+        "id": 26,
+        "message": "みんな集中してましたね\\n好レースが期待できそうです",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1002601"
+    },
+    {
+        "group_id": 100027,
+        "id": 28,
+        "message": "出遅れた娘の巻き返しに期待しましょう",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1002801"
+    },
+    {
+        "group_id": 100043,
+        "id": 43,
+        "message": "%h_player\\n軽やかな走りをしていますね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_player|1004001"
+    },
+    {
+        "group_id": 100043,
+        "id": 44,
+        "message": "%h_player\\n軽快にレースを運んでいますね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_player|1004101"
+    },
+    {
+        "group_id": 100044,
+        "id": 45,
+        "message": "いいライバル関係になりそうですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1004201"
+    },
+    {
+        "group_id": 100059,
+        "id": 59,
+        "message": "まだこれからですよ\\n頑張ってほしいですね！",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1004601|1004602"
+    },
+    {
+        "group_id": 100059,
+        "id": 60,
+        "message": "ちょっと厳しい位置ですが\\nここからの巻き返しに期待です",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1004603|1004604"
+    },
+    {
+        "group_id": 100059,
+        "id": 61,
+        "message": "まだこれからですよ\\nここからの巻き返しに期待です",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1004601|1004604"
+    },
+    {
+        "group_id": 100059,
+        "id": 62,
+        "message": "ちょっと厳しい位置ですが\\n頑張ってほしいですね！",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1004603|1004602"
+    },
+    {
+        "group_id": 100066,
+        "id": 67,
+        "message": "互いに牽制しあっていますからね\\n仕掛けるタイミングで\\n明暗が分かれそうです",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1004801"
+    },
+    {
+        "group_id": 100067,
+        "id": 68,
+        "message": "緊張感のあるいい展開ですね\\nただ、ペース配分には\\n気を付けたいところでしょうか",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1004901"
+    },
+    {
+        "group_id": 100069,
+        "id": 70,
+        "message": "これは大胆な作戦！\\n完全に予想外でした！",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1005003|1005004"
+    },
+    {
+        "group_id": 100069,
+        "id": 72,
+        "message": "これは大胆な作戦！\\n波乱の展開になりそうです！",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1005003|1005002"
+    },
+    {
+        "group_id": 100072,
+        "id": 73,
+        "message": "%h_rank1、\\n彼女の脚質にはあっていますね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank1|1005101"
+    },
+    {
+        "group_id": 100074,
+        "id": 75,
+        "message": "この位置なら周囲の様子をうかがえます\\n冷静にレースを進めてますね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1005301"
+    },
+    {
+        "group_id": 100075,
+        "id": 76,
+        "message": "これはきっと作戦でしょう\\n彼女には爆発的な末脚があります！",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1005401"
+    },
+    {
+        "group_id": 100077,
+        "id": 78,
+        "message": "最近、近くの神社への\\n恋愛祈願が流行っているらしいですよ",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1005601"
+    },
+    {
+        "group_id": 100078,
+        "id": 79,
+        "message": "バ場状態を確認しながら走っている感じですね\\nまだ本気ではないですよ",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1005701"
+    },
+    {
+        "group_id": 100083,
+        "id": 84,
+        "message": "ちょっと掛かり気味かもしれないです\\nひと息つけるといいですが",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1005901|1005902"
+    },
+    {
+        "group_id": 100083,
+        "id": 85,
+        "message": "掛かってしまっているかもしれません\\n息を入れるタイミングがあればいいですが",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1005903|1005904"
+    },
+    {
+        "group_id": 100083,
+        "id": 86,
+        "message": "ちょっと掛かり気味かもしれないです\\n息を入れるタイミングがあればいいですが",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1005901|1005904"
+    },
+    {
+        "group_id": 100083,
+        "id": 87,
+        "message": "掛かってしまっているかもしれません\\nひと息つけるといいですが",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1005903|1005902"
+    },
+    {
+        "group_id": 100087,
+        "id": 88,
+        "message": "ちょっと苦しいが大丈夫\\nここからが彼女の実力の見せどころです！",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1006001"
+    },
+    {
+        "group_id": 100088,
+        "id": 89,
+        "message": "これだけ密集していると\\nまぎれがありそうですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1006101"
+    },
+    {
+        "group_id": 100089,
+        "id": 90,
+        "message": "仕掛けどころの難しいレースになりそうですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1006201"
+    },
+    {
+        "group_id": 100120,
+        "id": 121,
+        "message": "焦っているみたいですね\\n前との距離が気になるのでしょうか",
+        "message_group": 0,
+        "per": 100,
+        "voice": "2008701"
+    },
+    {
+        "group_id": 100221,
+        "id": 222,
+        "message": "勝負所、最後の直線へと駆けていきます！",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1017601"
+    },
+    {
+        "group_id": 100276,
+        "id": 256,
+        "message": "ちょっと前に出ましたね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "2021001"
+    },
+    {
+        "group_id": 100000,
+        "id": 1040,
+        "message": "充分に実力を出せるレースとなりそうですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1008201"
+    },
+    {
+        "group_id": 100000,
+        "id": 1041,
+        "message": "各ウマ娘の好走が期待できます",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1008301"
+    },
+    {
+        "group_id": 100001,
+        "id": 1042,
+        "message": "バ場が乾いていますから\\n力のいるレースになりそうですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1008401"
+    },
+    {
+        "group_id": 100001,
+        "id": 1043,
+        "message": "ダート巧者の実力が\\n遺憾なく発揮できそうですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1008501"
+    },
+    {
+        "group_id": 100021,
+        "id": 1044,
+        "message": "このふたりのレース運びに注目ですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1008601"
+    },
+    {
+        "group_id": 100021,
+        "id": 1045,
+        "message": "ふたりのペースに\\n後続がどう対応するか注目です",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1008701"
+    },
+    {
+        "group_id": 100025,
+        "id": 1046,
+        "message": "これは位置取りが熾烈になりそうですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1008801"
+    },
+    {
+        "group_id": 100025,
+        "id": 1047,
+        "message": "誰が先頭に抜け出すか、注目しましょう",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1008901"
+    },
+    {
+        "group_id": 100044,
+        "id": 1050,
+        "message": "ふたりがレースを作りそうですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1009301"
+    },
+    {
+        "group_id": 100044,
+        "id": 1051,
+        "message": "ハイペースで流れる展開もありえますね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1009401"
+    },
+    {
+        "group_id": 100075,
+        "id": 1052,
+        "message": "直線勝負に賭けているんでしょう\\n終盤に期待です！",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1009501"
+    },
+    {
+        "group_id": 100088,
+        "id": 1053,
+        "message": "前に抜け出すのは容易じゃなさそうです",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1009601"
+    },
+    {
+        "group_id": 100088,
+        "id": 1054,
+        "message": "お互いに牽制し合っているようですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1009701"
+    },
+    {
+        "group_id": 100089,
+        "id": 1055,
+        "message": "各自、自分のペースを保っているようですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1009801"
+    },
+    {
+        "group_id": 100089,
+        "id": 1056,
+        "message": "後方のウマ娘が差し返せるのか\\n気になる開きです",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1009901"
+    },
+    {
+        "group_id": 100221,
+        "id": 1057,
+        "message": "内からくるか、外からくるか！\\n最後の局面です！",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1010001"
+    },
+    {
+        "group_id": 100221,
+        "id": 1058,
+        "message": "ウマ娘たちがどう動くか\\n目が離せません！",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1010101"
+    },
+    {
+        "group_id": 100221,
+        "id": 1059,
+        "message": "ここからスパート！\\n一気にレースが動きます！",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1010201"
+    },
+    {
+        "group_id": 100276,
+        "id": 1060,
+        "message": "スタミナを切らさないか心配です",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1010301"
+    },
+    {
+        "group_id": 100276,
+        "id": 1061,
+        "message": "冷静さを取り戻せるといいのですが",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1010401"
+    },
+    {
+        "group_id": 112592,
+        "id": 1062,
+        "message": "これだけ密集していると\\nまぎれがありそうですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1006101"
+    },
+    {
+        "group_id": 112592,
+        "id": 1063,
+        "message": "前に抜け出すのは容易じゃなさそうです",
+        "message_group": 0,
+        "per": 100,
+        "voice": "1009601"
+    },
+    {
+        "group_id": 150001,
+        "id": 2001,
+        "message": "ダート界のスター誕生を期待したいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000001"
+    },
+    {
+        "group_id": 150002,
+        "id": 2002,
+        "message": "春のスプリント王候補筆頭はズバリこの娘ですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000002"
+    },
+    {
+        "group_id": 150003,
+        "id": 2003,
+        "message": "春の三冠・第一戦目を制して\\n実力を証明してほしいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000003"
+    },
+    {
+        "group_id": 150004,
+        "id": 2004,
+        "message": "トリプルティアラの一冠目を制して\\nみごと桜の女王となってほしいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000004"
+    },
+    {
+        "group_id": 150005,
+        "id": 2005,
+        "message": "クラシック三冠の一冠目を制する\\n最も「はやい」ウマ娘は彼女かもしれませんね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000005"
+    },
+    {
+        "group_id": 150006,
+        "id": 2006,
+        "message": "現役最強の実力を見せつけて\\n春の盾を手にしてほしいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000006"
+    },
+    {
+        "group_id": 150007,
+        "id": 2007,
+        "message": "新緑の府中で新生マイル王の座を\\n手にしてほしいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000007"
+    },
+    {
+        "group_id": 150008,
+        "id": 2008,
+        "message": "勝利の女神をあっと言わせる走りを\\n見せてほしいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000008"
+    },
+    {
+        "group_id": 150009,
+        "id": 2009,
+        "message": "トリプルティアラの二冠目\\n樫の女王の栄冠を勝ち取ってほしいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000009"
+    },
+    {
+        "group_id": 150010,
+        "id": 2010,
+        "message": "みごと勝利してダービーウマ娘の\\n夢を掴んでほしいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000010"
+    },
+    {
+        "group_id": 150011,
+        "id": 2011,
+        "message": "そのスピードを見せつけて\\n春のマイル王に輝いてほしいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000011"
+    },
+    {
+        "group_id": 150012,
+        "id": 2012,
+        "message": "もっとも多くのファンの夢を背負っていますから\\nみごとグランプリウマ娘に輝いてほしいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000012"
+    },
+    {
+        "group_id": 150013,
+        "id": 2013,
+        "message": "人気に応えて秋のスプリント王者の座を\\n掴んでほしいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000013"
+    },
+    {
+        "group_id": 150014,
+        "id": 2014,
+        "message": "トリプルティアラの三冠目\\nその素晴らしい走りを開花させてほしいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000014"
+    },
+    {
+        "group_id": 150015,
+        "id": 2015,
+        "message": "クラシック三冠路線の終着点\\nここを勝って世代最強を証明してほしいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000015"
+    },
+    {
+        "group_id": 150016,
+        "id": 2016,
+        "message": "中距離路線の頂点に立つ走りで\\n秋の盾を手にしてほしいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000016"
+    },
+    {
+        "group_id": 150017,
+        "id": 2017,
+        "message": "女王の栄冠を掴むだけの\\n実力は充分に持っていますよ",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000017"
+    },
+    {
+        "group_id": 150018,
+        "id": 2018,
+        "message": "現役屈指のスピードで\\n最強のマイル王に輝いてほしいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000018"
+    },
+    {
+        "group_id": 150019,
+        "id": 2019,
+        "message": "日本を代表する圧巻の走りを\\n見せつけてほしいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000019"
+    },
+    {
+        "group_id": 150020,
+        "id": 2020,
+        "message": "ダート最強の走りで\\nみごとチャンピオンに輝いてほしいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000020"
+    },
+    {
+        "group_id": 150021,
+        "id": 2021,
+        "message": "来年のティアラ路線に向けて\\n新たな女王の誕生を期待したいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000021"
+    },
+    {
+        "group_id": 150022,
+        "id": 2022,
+        "message": "来年のクラシック路線を見据えて\\n力を示してほしいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000022"
+    },
+    {
+        "group_id": 150023,
+        "id": 2023,
+        "message": "今年最後の大一番で名実ともに\\n最強のグランプリウマ娘となってほしいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000023"
+    },
+    {
+        "group_id": 150024,
+        "id": 2024,
+        "message": "クラシック路線につながる\\n大きな一歩を踏み出してほしいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000024"
+    },
+    {
+        "group_id": 150025,
+        "id": 2025,
+        "message": "上半期ダート路線の総決算\\n王者にふさわしい走りを見せてほしいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000025"
+    },
+    {
+        "group_id": 150026,
+        "id": 2026,
+        "message": "ここ大井で、ダート界の新星誕生を期待したいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000026"
+    },
+    {
+        "group_id": 150027,
+        "id": 2027,
+        "message": "ダート界のヒロインとして輝く\\n素晴らしい走りを見せてほしいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000027"
+    },
+    {
+        "group_id": 150028,
+        "id": 2028,
+        "message": "ダート界最速ウマ娘の実力を\\n見せつけてほしいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000028"
+    },
+    {
+        "group_id": 150029,
+        "id": 2029,
+        "message": "ダート路線最強の実力をここで証明してほしいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000029"
+    },
+    {
+        "group_id": 150030,
+        "id": 2030,
+        "message": "暮れの大井で今年のダート路線を締めくくる\\n走りを期待したいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000030"
+    },
+    {
+        "group_id": 150031,
+        "id": 2031,
+        "message": "これ以上ない仕上がりですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000031"
+    },
+    {
+        "group_id": 150032,
+        "id": 2032,
+        "message": "いい感じに気合いが乗っていますね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000032"
+    },
+    {
+        "group_id": 150033,
+        "id": 2033,
+        "message": "まずまずの仕上がりですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000033"
+    },
+    {
+        "group_id": 150034,
+        "id": 2034,
+        "message": "ちょっと元気がないですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000034"
+    },
+    {
+        "group_id": 150035,
+        "id": 2035,
+        "message": "レースに気持ちが向いていないですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000035"
+    },
+    {
+        "group_id": 150036,
+        "id": 2036,
+        "message": "芝のコースで力を十分発揮できそうですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000036"
+    },
+    {
+        "group_id": 150037,
+        "id": 2037,
+        "message": "ダートでパワフルな走りが期待できますね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000037"
+    },
+    {
+        "group_id": 150038,
+        "id": 2038,
+        "message": "芝で本領を発揮できるかどうかちょっと不安ですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000038"
+    },
+    {
+        "group_id": 150039,
+        "id": 2039,
+        "message": "ダートコースはこの娘にとってはどうでしょうか",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000039"
+    },
+    {
+        "group_id": 150040,
+        "id": 2040,
+        "message": "この娘の持久力を見せつけるには絶好の舞台ですよ",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000040"
+    },
+    {
+        "group_id": 150041,
+        "id": 2041,
+        "message": "王道の距離で好走が期待できますね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000041"
+    },
+    {
+        "group_id": 150042,
+        "id": 2042,
+        "message": "相性抜群のマイルで\\n素晴らしい走りを期待したいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000042"
+    },
+    {
+        "group_id": 150043,
+        "id": 2043,
+        "message": "短距離戦にぴったりの瞬発力がこの娘の持ち味ですよ",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000043"
+    },
+    {
+        "group_id": 150044,
+        "id": 2044,
+        "message": "この娘にとっては過酷な距離のレースですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000044"
+    },
+    {
+        "group_id": 150045,
+        "id": 2045,
+        "message": "中距離レースの流れに上手く乗れるかどうか不安です",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000045"
+    },
+    {
+        "group_id": 150046,
+        "id": 2046,
+        "message": "マイルのペースが合うかどうか心配ですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000046"
+    },
+    {
+        "group_id": 150047,
+        "id": 2047,
+        "message": "短距離の忙しい展開がこの娘に合うでしょうか",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000047"
+    },
+    {
+        "group_id": 150048,
+        "id": 2048,
+        "message": "後方からの豪快な追い込みを見せてほしいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000048"
+    },
+    {
+        "group_id": 150049,
+        "id": 2049,
+        "message": "この娘の鋭い差し脚が炸裂するか、期待しましょう",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000049"
+    },
+    {
+        "group_id": 150050,
+        "id": 2050,
+        "message": "前目につける先行策で勝利をつかんでほしいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000050"
+    },
+    {
+        "group_id": 150051,
+        "id": 2051,
+        "message": "逃げを打って\\nこの娘のペースに持ち込めれば強いですよ",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000051"
+    },
+    {
+        "group_id": 150052,
+        "id": 2052,
+        "message": "後方待機策だとちょっと届かないかもしれないですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000052"
+    },
+    {
+        "group_id": 150053,
+        "id": 2053,
+        "message": "スパっと切れる差し脚がないので\\nこの作戦はどうでしょうか",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000053"
+    },
+    {
+        "group_id": 150054,
+        "id": 2054,
+        "message": "前でレースをするのが上手な娘ではないので\\n少し不安ですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000054"
+    },
+    {
+        "group_id": 150055,
+        "id": 2055,
+        "message": "ハナを切って\\n冷静にレースを運べるかどうか、心配です",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000055"
+    },
+    {
+        "group_id": 150056,
+        "id": 2056,
+        "message": "実力は完全に上位ですね\\n貫禄すら感じてしまいます",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000056"
+    },
+    {
+        "group_id": 150057,
+        "id": 2057,
+        "message": "人気と実力を兼ね備えた、私イチオシのウマ娘ですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000057"
+    },
+    {
+        "group_id": 150058,
+        "id": 2058,
+        "message": "パドックでも注目を集める素晴らしい仕上がりですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000058"
+    },
+    {
+        "group_id": 150059,
+        "id": 2059,
+        "message": "1番人気こそ譲りましたが、素質は負けていませんよ",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000059"
+    },
+    {
+        "group_id": 150060,
+        "id": 2060,
+        "message": "素晴らしい雰囲気を感じる\\n私イチオシのウマ娘ですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000060"
+    },
+    {
+        "group_id": 150061,
+        "id": 2061,
+        "message": "1番人気に負けず劣らずいい仕上がりですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000061"
+    },
+    {
+        "group_id": 150062,
+        "id": 2062,
+        "message": "3番人気ではありますが\\n逆転を狙える能力を持っていますよ",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000062"
+    },
+    {
+        "group_id": 150063,
+        "id": 2063,
+        "message": "キラリと光るものを持っている\\n私イチオシのウマ娘ですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000063"
+    },
+    {
+        "group_id": 150064,
+        "id": 2064,
+        "message": "このメンバーの中でも見劣りしない仕上がりですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000064"
+    },
+    {
+        "group_id": 150065,
+        "id": 2065,
+        "message": "ライバルたちは強力ですが、好走を期待したいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000065"
+    },
+    {
+        "group_id": 150066,
+        "id": 2066,
+        "message": "ちょっと厳しいメンバーですが\\n健闘を期待したいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000066"
+    },
+    {
+        "group_id": 150067,
+        "id": 2067,
+        "message": "結果を残すのは難しいかもしれませんが\\n経験を糧にしてほしいですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000067"
+    },
+    {
+        "group_id": 150068,
+        "id": 2068,
+        "message": "トップスピード・瞬発力ともに\\nいいモノを持っていますね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000068"
+    },
+    {
+        "group_id": 150069,
+        "id": 2069,
+        "message": "一生懸命走るのですが\\nもう少しスピード感と力強さが欲しいところですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000069"
+    },
+    {
+        "group_id": 150070,
+        "id": 2070,
+        "message": "長くいい脚を使える持久力がこの娘の魅力ですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000070"
+    },
+    {
+        "group_id": 150071,
+        "id": 2071,
+        "message": "推進力と持続力の両立がこの娘の課題ですね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000071"
+    },
+    {
+        "group_id": 150072,
+        "id": 2072,
+        "message": "最後の直線での粘り強さには\\n目を見張るものがありますね",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000072"
+    },
+    {
+        "group_id": 150073,
+        "id": 2073,
+        "message": "道中のペース配分に気を付けたいですね\\nメンタル面の成長が欲しいです",
+        "message_group": 0,
+        "per": 100,
+        "voice": "0000073"
+    },
+    {
+        "group_id": 900000,
+        "id": 9000,
+        "message": "%h_rank1、%h_rank_l1、%h_rank_no1、%h_rank_to1、%h_rank_ta1、%h_rank_a1",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank1|%w_0.2|%h_rank_l1|%w_0.2|%h_rank_no1|%w_0.2|%h_rank_to1|%w_0.2|%h_rank_ta1|%w_0.2|%h_rank_a1"
+    },
+    {
+        "group_id": 900001,
+        "id": 9001,
+        "message": "%h_rank2、%h_rank_l2、%h_rank_no2、%h_rank_to2、%h_rank_ta2、%h_rank_a2",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank2|%w_0.2|%h_rank_l2|%w_0.2|%h_rank_no2|%w_0.2|%h_rank_to2|%w_0.2|%h_rank_ta2|%w_0.2|%h_rank_a2"
+    },
+    {
+        "group_id": 900002,
+        "id": 9002,
+        "message": "%h_rank3、%h_rank_l3、%h_rank_no3、%h_rank_to3、%h_rank_ta3、%h_rank_a3",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank3|%w_0.2|%h_rank_l3|%w_0.2|%h_rank_no3|%w_0.2|%h_rank_to3|%w_0.2|%h_rank_ta3|%w_0.2|%h_rank_a3"
+    },
+    {
+        "group_id": 900003,
+        "id": 9003,
+        "message": "%h_rank4、%h_rank_l4、%h_rank_no4、%h_rank_to4、%h_rank_ta4、%h_rank_a4",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank4|%w_0.2|%h_rank_l4|%w_0.2|%h_rank_no4|%w_0.2|%h_rank_to4|%w_0.2|%h_rank_ta4|%w_0.2|%h_rank_a4"
+    },
+    {
+        "group_id": 900004,
+        "id": 9004,
+        "message": "%h_rank5、%h_rank_l5、%h_rank_no5、%h_rank_to5、%h_rank_ta5、%h_rank_a5",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank5|%w_0.2|%h_rank_l5|%w_0.2|%h_rank_no5|%w_0.2|%h_rank_to5|%w_0.2|%h_rank_ta5|%w_0.2|%h_rank_a5"
+    },
+    {
+        "group_id": 900005,
+        "id": 9005,
+        "message": "%h_rank6、%h_rank_l6、%h_rank_no6、%h_rank_to6、%h_rank_ta6、%h_rank_a6",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank6|%w_0.2|%h_rank_l6|%w_0.2|%h_rank_no6|%w_0.2|%h_rank_to6|%w_0.2|%h_rank_ta6|%w_0.2|%h_rank_a6"
+    },
+    {
+        "group_id": 900006,
+        "id": 9006,
+        "message": "%h_rank7、%h_rank_l7、%h_rank_no7、%h_rank_to7、%h_rank_ta7、%h_rank_a7",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank7|%w_0.2|%h_rank_l7|%w_0.2|%h_rank_no7|%w_0.2|%h_rank_to7|%w_0.2|%h_rank_ta7|%w_0.2|%h_rank_a7"
+    },
+    {
+        "group_id": 900007,
+        "id": 9007,
+        "message": "%h_rank8、%h_rank_l8、%h_rank_no8、%h_rank_to8、%h_rank_ta8、%h_rank_a8",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank8|%w_0.2|%h_rank_l8|%w_0.2|%h_rank_no8|%w_0.2|%h_rank_to8|%w_0.2|%h_rank_ta8|%w_0.2|%h_rank_a8"
+    },
+    {
+        "group_id": 900008,
+        "id": 9008,
+        "message": "%h_rank9、%h_rank_l9、%h_rank_no9、%h_rank_to9、%h_rank_ta9、%h_rank_a9",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank9|%w_0.2|%h_rank_l9|%w_0.2|%h_rank_no9|%w_0.2|%h_rank_to9|%w_0.2|%h_rank_ta9|%w_0.2|%h_rank_a9"
+    },
+    {
+        "group_id": 900009,
+        "id": 9009,
+        "message": "%h_rank10、%h_rank_l10、%h_rank_no10、%h_rank_to10、%h_rank_ta10、%h_rank_a10",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank10|%w_0.2|%h_rank_l10|%w_0.2|%h_rank_no10|%w_0.2|%h_rank_to10|%w_0.2|%h_rank_ta10|%w_0.2|%h_rank_a10"
+    },
+    {
+        "group_id": 900010,
+        "id": 9010,
+        "message": "%h_rank11、%h_rank_l11、%h_rank_no11、%h_rank_to11、%h_rank_ta11、%h_rank_a11",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank11|%w_0.2|%h_rank_l11|%w_0.2|%h_rank_no11|%w_0.2|%h_rank_to11|%w_0.2|%h_rank_ta11|%w_0.2|%h_rank_a11"
+    },
+    {
+        "group_id": 900011,
+        "id": 9011,
+        "message": "%h_rank12、%h_rank_l12、%h_rank_no12、%h_rank_to12、%h_rank_ta12、%h_rank_a12",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank12|%w_0.2|%h_rank_l12|%w_0.2|%h_rank_no12|%w_0.2|%h_rank_to12|%w_0.2|%h_rank_ta12|%w_0.2|%h_rank_a12"
+    },
+    {
+        "group_id": 900012,
+        "id": 9012,
+        "message": "%h_rank13、%h_rank_l13、%h_rank_no13、%h_rank_to13、%h_rank_ta13、%h_rank_a13",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank13|%w_0.2|%h_rank_l13|%w_0.2|%h_rank_no13|%w_0.2|%h_rank_to13|%w_0.2|%h_rank_ta13|%w_0.2|%h_rank_a13"
+    },
+    {
+        "group_id": 900013,
+        "id": 9013,
+        "message": "%h_rank14、%h_rank_l14、%h_rank_no14、%h_rank_to14、%h_rank_ta14、%h_rank_a14",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank14|%w_0.2|%h_rank_l14|%w_0.2|%h_rank_no14|%w_0.2|%h_rank_to14|%w_0.2|%h_rank_ta14|%w_0.2|%h_rank_a14"
+    },
+    {
+        "group_id": 900014,
+        "id": 9014,
+        "message": "%h_rank15、%h_rank_l15、%h_rank_no15、%h_rank_to15、%h_rank_ta15、%h_rank_a15",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank15|%w_0.2|%h_rank_l15|%w_0.2|%h_rank_no15|%w_0.2|%h_rank_to15|%w_0.2|%h_rank_ta15|%w_0.2|%h_rank_a15"
+    },
+    {
+        "group_id": 900015,
+        "id": 9015,
+        "message": "%h_rank16、%h_rank_l16、%h_rank_no16、%h_rank_to16、%h_rank_ta16、%h_rank_a16",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank16|%w_0.2|%h_rank_l16|%w_0.2|%h_rank_no16|%w_0.2|%h_rank_to16|%w_0.2|%h_rank_ta16|%w_0.2|%h_rank_a16"
+    },
+    {
+        "group_id": 900016,
+        "id": 9016,
+        "message": "%h_rank17、%h_rank_l17、%h_rank_no17、%h_rank_to17、%h_rank_ta17、%h_rank_a17",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank17|%w_0.2|%h_rank_l17|%w_0.2|%h_rank_no17|%w_0.2|%h_rank_to17|%w_0.2|%h_rank_ta17|%w_0.2|%h_rank_a17"
+    },
+    {
+        "group_id": 900017,
+        "id": 9017,
+        "message": "%h_rank18、%h_rank_l18、%h_rank_no18、%h_rank_to18、%h_rank_ta18、%h_rank_a18",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank18|%w_0.2|%h_rank_l18|%w_0.2|%h_rank_no18|%w_0.2|%h_rank_to18|%w_0.2|%h_rank_ta18|%w_0.2|%h_rank_a18"
+    },
+    {
+        "group_id": 900018,
+        "id": 9018,
+        "message": "%h_rank1、%h_rank_no1、%h_rank_to1、%h_rank_ta1、%h_rank_a1",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank1|%w_0.2|%h_rank_no1|%w_0.2|%h_rank_to1|%w_0.2|%h_rank_ta1|%w_0.2|%h_rank_a1"
+    },
+    {
+        "group_id": 900019,
+        "id": 9019,
+        "message": "%h_rank2、%h_rank_no2、%h_rank_to2、%h_rank_ta2、%h_rank_a2",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank2|%w_0.2|%h_rank_no2|%w_0.2|%h_rank_to2|%w_0.2|%h_rank_ta2|%w_0.2|%h_rank_a2"
+    },
+    {
+        "group_id": 900020,
+        "id": 9020,
+        "message": "%h_rank3、%h_rank_no3、%h_rank_to3、%h_rank_ta3、%h_rank_a3",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank3|%w_0.2|%h_rank_no3|%w_0.2|%h_rank_to3|%w_0.2|%h_rank_ta3|%w_0.2|%h_rank_a3"
+    },
+    {
+        "group_id": 900021,
+        "id": 9021,
+        "message": "%h_rank4、%h_rank_no4、%h_rank_to4、%h_rank_ta4、%h_rank_a4",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank4|%w_0.2|%h_rank_no4|%w_0.2|%h_rank_to4|%w_0.2|%h_rank_ta4|%w_0.2|%h_rank_a4"
+    },
+    {
+        "group_id": 900022,
+        "id": 9022,
+        "message": "%h_rank5、%h_rank_no5、%h_rank_to5、%h_rank_ta5、%h_rank_a5",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank5|%w_0.2|%h_rank_no5|%w_0.2|%h_rank_to5|%w_0.2|%h_rank_ta5|%w_0.2|%h_rank_a5"
+    },
+    {
+        "group_id": 900023,
+        "id": 9023,
+        "message": "%h_rank6、%h_rank_no6、%h_rank_to6、%h_rank_ta6、%h_rank_a6",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank6|%w_0.2|%h_rank_no6|%w_0.2|%h_rank_to6|%w_0.2|%h_rank_ta6|%w_0.2|%h_rank_a6"
+    },
+    {
+        "group_id": 900024,
+        "id": 9024,
+        "message": "%h_rank7、%h_rank_no7、%h_rank_to7、%h_rank_ta7、%h_rank_a7",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank7|%w_0.2|%h_rank_no7|%w_0.2|%h_rank_to7|%w_0.2|%h_rank_ta7|%w_0.2|%h_rank_a7"
+    },
+    {
+        "group_id": 900025,
+        "id": 9025,
+        "message": "%h_rank8、%h_rank_no8、%h_rank_to8、%h_rank_ta8、%h_rank_a8",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank8|%w_0.2|%h_rank_no8|%w_0.2|%h_rank_to8|%w_0.2|%h_rank_ta8|%w_0.2|%h_rank_a8"
+    },
+    {
+        "group_id": 900026,
+        "id": 9026,
+        "message": "%h_rank9、%h_rank_no9、%h_rank_to9、%h_rank_ta9、%h_rank_a9",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank9|%w_0.2|%h_rank_no9|%w_0.2|%h_rank_to9|%w_0.2|%h_rank_ta9|%w_0.2|%h_rank_a9"
+    },
+    {
+        "group_id": 900027,
+        "id": 9027,
+        "message": "%h_rank10、%h_rank_no10、%h_rank_to10、%h_rank_ta10、%h_rank_a10",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank10|%w_0.2|%h_rank_no10|%w_0.2|%h_rank_to10|%w_0.2|%h_rank_ta10|%w_0.2|%h_rank_a10"
+    },
+    {
+        "group_id": 900028,
+        "id": 9028,
+        "message": "%h_rank11、%h_rank_no11、%h_rank_to11、%h_rank_ta11、%h_rank_a11",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank11|%w_0.2|%h_rank_no11|%w_0.2|%h_rank_to11|%w_0.2|%h_rank_ta11|%w_0.2|%h_rank_a11"
+    },
+    {
+        "group_id": 900029,
+        "id": 9029,
+        "message": "%h_rank12、%h_rank_no12、%h_rank_to12、%h_rank_ta12、%h_rank_a12",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank12|%w_0.2|%h_rank_no12|%w_0.2|%h_rank_to12|%w_0.2|%h_rank_ta12|%w_0.2|%h_rank_a12"
+    },
+    {
+        "group_id": 900030,
+        "id": 9030,
+        "message": "%h_rank13、%h_rank_no13、%h_rank_to13、%h_rank_ta13、%h_rank_a13",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank13|%w_0.2|%h_rank_no13|%w_0.2|%h_rank_to13|%w_0.2|%h_rank_ta13|%w_0.2|%h_rank_a13"
+    },
+    {
+        "group_id": 900031,
+        "id": 9031,
+        "message": "%h_rank14、%h_rank_no14、%h_rank_to14、%h_rank_ta14、%h_rank_a14",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank14|%w_0.2|%h_rank_no14|%w_0.2|%h_rank_to14|%w_0.2|%h_rank_ta14|%w_0.2|%h_rank_a14"
+    },
+    {
+        "group_id": 900032,
+        "id": 9032,
+        "message": "%h_rank15、%h_rank_no15、%h_rank_to15、%h_rank_ta15、%h_rank_a15",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank15|%w_0.2|%h_rank_no15|%w_0.2|%h_rank_to15|%w_0.2|%h_rank_ta15|%w_0.2|%h_rank_a15"
+    },
+    {
+        "group_id": 900033,
+        "id": 9033,
+        "message": "%h_rank16、%h_rank_no16、%h_rank_to16、%h_rank_ta16、%h_rank_a16",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank16|%w_0.2|%h_rank_no16|%w_0.2|%h_rank_to16|%w_0.2|%h_rank_ta16|%w_0.2|%h_rank_a16"
+    },
+    {
+        "group_id": 900034,
+        "id": 9034,
+        "message": "%h_rank17、%h_rank_no17、%h_rank_to17、%h_rank_ta17、%h_rank_a17",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank17|%w_0.2|%h_rank_no17|%w_0.2|%h_rank_to17|%w_0.2|%h_rank_ta17|%w_0.2|%h_rank_a17"
+    },
+    {
+        "group_id": 900035,
+        "id": 9035,
+        "message": "%h_rank18、%h_rank_no18、%h_rank_to18、%h_rank_ta18、%h_rank_a18",
+        "message_group": 0,
+        "per": 100,
+        "voice": "%h_rank18|%w_0.2|%h_rank_no18|%w_0.2|%h_rank_to18|%w_0.2|%h_rank_ta18|%w_0.2|%h_rank_a18"
+    }
+]

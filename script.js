@@ -4,16 +4,15 @@ let db;
 
 // fetchTranslationJSON returns json containing translation data
 // append timestamp to get fresh copy since github pages caching is aggressive
-const fetchTranslationJSON1 = async () => {
+const fetchTranslationJSON = async () => {
     const timestamp = new Date().getTime();
     const body = await fetch(`data/text_data.json?${timestamp}`);
-    return await body.json();
-}
+    const body2 = await fetch(`data/character_system_text.json?${timestamp}`);
+    const body3 = await fetch(`data/race_jikkyo_comment.json?${timestamp}`);
+    const body4 = await fetch(`data/race_jikkyo_message.json?${timestamp}`);
+    const bodys = [body.json(), body2.json(), body3.json(), body4.json()];
 
-const fetchTranslationJSON2 = async () => {
-    const timestamp = new Date().getTime();
-    const body = await fetch(`data/character_system_text.json?${timestamp}`);
-    return await body.json();
+    return await bodys;
 }
 
 // actuallyInitSqlJs loads wasm files and initializes sql.js
@@ -49,11 +48,11 @@ const savedb = db => {
 
 // process translates the loaded db and exports it
 const process = async (db) => {
-    const findAndReplaceStatement = db.prepare("UPDATE `text_data` SET `text`=:replace WHERE `text`=:search");
-    const data = await fetchTranslationJSON1();
+    const data = await fetchTranslationJSON();
 
+    const findAndReplaceStatement = db.prepare("UPDATE `text_data` SET `text`=:replace WHERE `text`=:search");
     // Search and replace for every item in data.json
-    for (const jpText in data) {
+    for (const jpText in data[0]) {
         const cnText = data[jpText];
         if (!cnText) continue; // Skip if enText is empty
 
@@ -65,15 +64,39 @@ const process = async (db) => {
     }
 
     const findAndReplaceStatement2 = db.prepare("UPDATE `character_system_text` SET `text`=:replace WHERE `text`=:search");
-    const data2 = await fetchTranslationJSON2();
-
     // Search and replace for every item in data.json
-    for (const jpText in data2) {
-        const cnText = data2[jpText];
+    for (const jpText in data[1]) {
+        const cnText = data[1][jpText];
         if (!cnText) continue; // Skip if enText is empty
 
         console.log(`Replacing ${jpText} with ${cnText}!`);
         findAndReplaceStatement2.run({
+            ":search": jpText,
+            ":replace": cnText,
+        });
+    }
+
+    const findAndReplaceStatement3 = db.prepare("UPDATE `race_jikkyo_comment` SET `message`=:replace WHERE `text`=:search");
+    // Search and replace for every item in data.json
+    for (const jpText in data[2]) {
+        const cnText = data[2][jpText];
+        if (!cnText) continue; // Skip if enText is empty
+
+        console.log(`Replacing ${jpText} with ${cnText}!`);
+        findAndReplaceStatement3.run({
+            ":search": jpText,
+            ":replace": cnText,
+        });
+    }
+
+    const findAndReplaceStatement4 = db.prepare("UPDATE `race_jikkyo_message` SET `message`=:replace WHERE `text`=:search");
+    // Search and replace for every item in data.json
+    for (const jpText in data[3]) {
+        const cnText = data[3][jpText];
+        if (!cnText) continue; // Skip if enText is empty
+
+        console.log(`Replacing ${jpText} with ${cnText}!`);
+        findAndReplaceStatement4.run({
             ":search": jpText,
             ":replace": cnText,
         });
