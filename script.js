@@ -10,7 +10,7 @@ const fetchTranslationJSON = async () => {
     const body2 = await fetch(`data/character_system_text.json?${timestamp}`);
     const body3 = await fetch(`data/race_jikkyo_comment.json?${timestamp}`);
     const body4 = await fetch(`data/race_jikkyo_message.json?${timestamp}`);
-    const bodys = [body.json(), body2.json(), body3.json(), body4.json()];
+    const bodys = [await body.json(), await body2.json(), await body3.json(), await body4.json()];
 
     return await bodys;
 }
