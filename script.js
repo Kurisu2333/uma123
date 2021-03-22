@@ -5,11 +5,10 @@ let db;
 // fetchTranslationJSON returns json containing translation data
 // append timestamp to get fresh copy since github pages caching is aggressive
 const fetchTranslationJSON = async () => {
-    const timestamp = new Date().getTime();
-    const body = await fetch(`data/text_data.json?${timestamp}`);
-    const body2 = await fetch(`data/character_system_text.json?${timestamp}`);
-    const body3 = await fetch(`data/race_jikkyo_comment.json?${timestamp}`);
-    const body4 = await fetch(`data/race_jikkyo_message.json?${timestamp}`);
+    const body = await fetch(`data/text_data.json?${new Date().getTime()}`);
+    const body2 = await fetch(`data/character_system_text.json?${new Date().getTime()}`);
+    const body3 = await fetch(`data/race_jikkyo_comment.json?${new Date().getTime()}`);
+    const body4 = await fetch(`data/race_jikkyo_message.json?${new Date().getTime()}`);
     const bodys = [await body.json(), await body2.json(), await body3.json(), await body4.json()];
 
     return await bodys;
