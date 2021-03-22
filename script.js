@@ -76,7 +76,7 @@ const process = async (db) => {
         });
     }
 
-    const findAndReplaceStatement3 = db.prepare("UPDATE `race_jikkyo_comment` SET `message`=:replace WHERE `text`=:search");
+    const findAndReplaceStatement3 = db.prepare("UPDATE `race_jikkyo_comment` SET `message`=:replace WHERE `message`=:search");
     // Search and replace for every item in data.json
     for (const jpText in data[2]) {
         const cnText = data[2][jpText];
@@ -89,7 +89,7 @@ const process = async (db) => {
         });
     }
 
-    const findAndReplaceStatement4 = db.prepare("UPDATE `race_jikkyo_message` SET `message`=:replace WHERE `text`=:search");
+    const findAndReplaceStatement4 = db.prepare("UPDATE `race_jikkyo_message` SET `message`=:replace WHERE `message`=:search");
     // Search and replace for every item in data.json
     for (const jpText in data[3]) {
         const cnText = data[3][jpText];
